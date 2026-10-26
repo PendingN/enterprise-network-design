@@ -1,4 +1,4 @@
-# GTM — Thiết kế mạng doanh nghiệp
+# Enterprise Network Design — Thiết kế mạng doanh nghiệp
 
 Đồ án thiết kế và triển khai hệ thống mạng máy tính cho một doanh nghiệp phân phối hàng tiêu dùng.
 
