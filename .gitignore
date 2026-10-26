@@ -1,0 +1,11 @@
+# Office temporary files
+~$*
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Operating system metadata
+Thumbs.db
+.DS_Store
